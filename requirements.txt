@@ -1,0 +1,7 @@
+numpy
+fastai
+fastcore
+sklearn
+pandas
+matplotlib
+
